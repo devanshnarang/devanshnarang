@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Competitive Programming
-- 🌱 I’m currently learning C++ and Web Development
+- 🔭 I’m a Competitive Programmer
+- 🌱 I’m proficient in C++ and Web Development
+- I am currently exploring the field of deep learning and doing research on DeepFake Technologies
 - 👯 I’m looking to collaborate on React
 - 🤔 I’m looking for help with Node and Python
 - 💬 Ask me about Data Structures and Algorithms
